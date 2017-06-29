@@ -3,6 +3,20 @@
 DePaul IHS
 */
 
+/* Body */
+
+/* Table */
+
+thead {
+    background-color: rgba(93, 79, 146, 0.59);
+    color: white;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: rgba(232, 236, 243, 0.73);
+}
+
+/*
 @font-face {
     font-family: 'GibsonSemiBold';
     src: url('/css/fonts/gibson-semibold-webfont.eot');
@@ -13,6 +27,8 @@ DePaul IHS
     font-weight: normal;
     font-style: normal;
 }
+*/
+/*
 @font-face {
     font-family: 'GibsonBold';
     src: url('/css/fonts/gibson-bold-webfont.eot');
@@ -23,6 +39,7 @@ DePaul IHS
     font-weight: normal;
     font-style: normal;
 }
+*/
 @font-face {
     font-family: 'ColaborateThinRegular';
     src: url('/css/fonts/ColabThi-webfont.eot');
@@ -44,6 +61,7 @@ DePaul IHS
     font-style: normal;
 
 }
+/*
 @font-face {
     font-family: 'AlegreyaBold';
     src: url('http://www.housingstudies.org/static/css/fonts/Alegreya-Bold-webfont.eot');
@@ -54,9 +72,14 @@ DePaul IHS
     font-weight: normal;
     font-style: normal;
 }
+*/
 
-    
-body { 
+/* BODY */
+a {
+    color: rgb(93, 79, 146);
+    background-color: transparent;
+}
+body {
   font: 18px/1.3em 'ColaborateThinRegular', sans-serif;
 }
 
@@ -69,7 +92,7 @@ h1 {
 h2 {
   font: 22px/1em 'GibsonBold', serif;
   text-transform: uppercase;
-  color: #827E7E;
+  color: rgb(93, 79, 146);
 }
 
 #logo {
@@ -102,4 +125,17 @@ h2 {
   float: left;
   margin-right: 8px;
   opacity: 0.7;
+}
+
+/* BUTTON */
+.btn-info {
+    color: white;
+    background-color: rgb(93, 79, 146);
+    border-color: rgb(93, 79, 146);
+}
+
+.btn-info:hover {
+    color: white;
+    background-color: rgba(93, 79, 146, 0.73);
+    border-color: rgba(93, 79, 146, 0.73);
 }
