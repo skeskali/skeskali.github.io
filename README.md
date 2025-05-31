@@ -4,7 +4,7 @@ I'm a librarian who has dabbled in technology for more than a decade.
 
 - 🔭 I’m currently working on cleaning and normalizing data from my library's collection records
 
-- 🌱 I’m currently learning SQL, Power Query and OpenRefine
+- 🌱 I’m currently learning Static site publishing, SQL, Power Query and OpenRefine
 
 - 😄 Pronouns: she/her/hers/they/them/theirs
 
