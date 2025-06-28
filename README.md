@@ -4,7 +4,7 @@ I'm a librarian who has dabbled in technology for more than a decade.
 
 - 🔭 I work as a Collections Analyst cleaning and normalizing data from my library's collection records
 
-- 🔧 I like to tinker with static site publishing (Eleventy/Jekyll) and Obsidian
+- 🔧 I like to tinker with static site publishing (Eleventy/Jekyll) andObsidian
 
 - 🌱 I’m currently learning Static site publishing, SQL, Power Query and OpenRefine
 
